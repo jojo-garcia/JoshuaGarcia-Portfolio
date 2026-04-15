@@ -7,5 +7,6 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss(),
-  ]   
+  ],
+  base: 'https://github.com/jojo-garcia/JoshuaGarcia-Portfolio',
 })
